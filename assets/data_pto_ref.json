@@ -1,0 +1,44 @@
+[
+  {
+    "NOMBRE": "Casa de pin",
+    "CALLE": "Peña 3064",
+    "LATITUD": -37.941260,
+    "LONGITUD": -57.586330
+  },
+  {
+    "NOMBRE": "Casa de urciuoli",
+    "CALLE": "Sarmiento 3064",
+    "LATITUD": -37.941260,
+    "LONGITUD": -57.586330
+  },
+  {
+    "NOMBRE": "Gomería de don josé",
+    "CALLE": "Ayolas 3064",
+    "LATITUD": -37.941260,
+    "LONGITUD": -57.586330
+  },
+  {
+    "NOMBRE": "Maker",
+    "CALLE": "chile 3064",
+    "LATITUD": -37.941260,
+    "LONGITUD": -57.586330
+  },
+  {
+    "NOMBRE": "Tía lola",
+    "CALLE": "España 3064",
+    "LATITUD": -37.941260,
+    "LONGITUD": -57.586330
+  },
+  {
+    "NOMBRE": "Casino",
+    "CALLE": "San Martin 3064",
+    "LATITUD": -37.941260,
+    "LONGITUD": -57.586330
+  },
+  {
+    "NOMBRE": "Cambio",
+    "CALLE": "12 de octubre 3064",
+    "LATITUD": -37.941260,
+    "LONGITUD": -57.586330
+  }
+]
